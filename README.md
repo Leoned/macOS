@@ -4,7 +4,7 @@ Soluciones en macOS
 ## En macOS High Sierra
 El problema es por el límite de huellas registradas en macOS High Sierra.
 
-https://i1.wp.com/manzanitas.online/wp-content/uploads/2019/08/macOS-Fingerprint-Limit-Reached.jpg?w=810&ssl=1
+![image](https://user-images.githubusercontent.com/17074687/77921203-15217900-7265-11ea-83c3-7fea19e13107.png)
 
 ### Como eliminar las huellas existentes
 * Reinicia o inicia tu Mac.
@@ -16,4 +16,4 @@ https://i1.wp.com/manzanitas.online/wp-content/uploads/2019/08/macOS-Fingerprint
 * Presione Entrar / Volver .
 * Escriba yes en la terminal.
 
-https://i2.wp.com/manzanitas.online/wp-content/uploads/2019/08/Reset-Fingerprints-on-macOS.jpg?w=810&ssl=1
+![image](https://user-images.githubusercontent.com/17074687/77921306-34b8a180-7265-11ea-8ca1-92d3f280f2ad.png)
