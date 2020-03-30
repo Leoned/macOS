@@ -1,0 +1,2 @@
+# macOS
+Soluciones en macOS
