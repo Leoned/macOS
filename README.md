@@ -17,3 +17,9 @@ El problema es por el límite de huellas registradas en macOS High Sierra.
 * Escriba yes en la terminal.
 
 ![image](https://user-images.githubusercontent.com/17074687/77921306-34b8a180-7265-11ea-8ca1-92d3f280f2ad.png)
+
+_____________________________
+# Reinstalar macOS
+https://support.apple.com/es-cl/guide/mac-help/mchlp1599/mac
+
+https://support.apple.com/es-lamr/HT204904
