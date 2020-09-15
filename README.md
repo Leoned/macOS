@@ -23,3 +23,15 @@ _____________________________
 https://support.apple.com/es-cl/guide/mac-help/mchlp1599/mac
 
 https://support.apple.com/es-lamr/HT204904
+
+__________________________________
+# Para restaurar usuario root y configurar modo de arranque de disco
+Ingresar con, Comand + s
+First Command:
+mount -uw /
+
+Second Command:
+rm /var/db/.applesetupdone
+
+Third Command:
+reboot
