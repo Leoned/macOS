@@ -27,6 +27,7 @@ https://support.apple.com/es-lamr/HT204904
 __________________________________
 # Para restaurar usuario root y configurar modo de arranque de disco
 Ingresar con, Comand + s
+
 First Command:
 mount -uw /
 
