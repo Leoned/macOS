@@ -36,3 +36,10 @@ rm /var/db/.AppleSetupDone
 
 Third Command:
 reboot
+
+# How to solve Download installer information to the target volume failed in Mac
+Cuando se tenga descargado y sin embargo no se puede instalar, entonces hay que borrar
+
+y cuando se descarga de vuela sale error
+
+Abrir la terminal y escribir el siguiente comando: sudo softwareupdate --fetch-full-installer --full-installer-version 10.15.6
