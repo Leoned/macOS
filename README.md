@@ -32,7 +32,7 @@ First Command:
 mount -uw /
 
 Second Command:
-rm /var/db/.applesetupdone
+rm /var/db/.AppleSetupDone
 
 Third Command:
 reboot
